@@ -1,0 +1,14 @@
+# binary-search-tree-projesi
+
+
+## [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aþamalarýný yazýnýz.
+
+Root 7 dir saðýnda child 8 solunda child 5 bulunur.
+
+Parent 5 saðýnda leaf 6 solunda child 1 bulunur.
+
+Parent 1 saðýnda child 3 solunda leaf 0 bulunur.
+
+Parent 3 saðýnda leaf 4 solunda leaf 2 bulunur.
+
+Parent 8 saðýnda leaf 9 bulunur.
